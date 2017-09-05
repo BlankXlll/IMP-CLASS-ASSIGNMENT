@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Building Web Page is Easy</title>
+    </head>
+    <body>
+            <h1>Building Web Page is Easy</h1>
+            <p>Building a web page is easy, as long as you have the right tools and mind-set for the job. Let’s take a look at some of the technology that you need to build a web page.</p>
+    
+            <h2>HTML</h2>
+            <p>HTML is the content layer and allows us to define the content and structure of our web page. Choosing the right tag for each piece of content enforces the semantics and meaning of the page. All HTML pages should have the following structural tags:</p>
+            <ul>
+                <li>html</li>
+                <li>head</li>
+                <li>body</li>
+            </ul>
+
+            <h2>CSS</h2>
+            <p>CSS is the presentation layer and allows us to apply design and style to our pages. CSS can be used for:</p>
+            <ul>
+                <li>Color</li>
+                <li>Typography</li>
+                <li>Spacing</li>
+                <li>Animations</li>
+                <li>Media queries</li>
+                <li>And more...</li>
+            </ul>
+            
+            <h2>JavaScript</h2>
+            <p>JavaScript is the behavior layer and allows us to add events to our pages. An event is something that is triggered when the user does something e.g.</p>
+            <ul>
+                <li>Click</li>
+                <li>Scroll</li>
+                <li>Hover</li>
+            </ul>
+
+            <p>To learn more about building web pages, take a look at some of my favorite websites:</p>
+            <ul>
+                <li><a href="https://alistapart.com/">A List Apart</a></li>
+                <li><a href="https://www.smashingmagazine.com/">Smashing Magazine</a></li>
+                <li><a href="https://www.webdesignerdepot.com/">Web Designer Depot</a></li>
+            </ul>
+    </body>
+</html>
