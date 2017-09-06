@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Building Web Page is Easy</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+            <h1>Building Web Page is Easy</h1>
+            <p>Building a web page is easy, as long as you have the right tools and mind-set for the job. Let’s take a look at some of the technology that you need to build a web page.</p>
+    
+            <h2>HTML</h2>
+            <p><span class="b">HTML</span> the <strong class="a">content layer</strong> and allows us to define the content and structure of our web page. Choosing the right tag for each piece of content enforces the semantics and meaning of the page. All HTML pages should have the following structural tags:</p>
+            <ul>
+                <li class="x">html</li>
+                <li class="y">head</li>
+                <li class="z">body</li>
+            </ul>
+
+            <h2>CSS</h2>
+            <p><span class="b">CSS</span> is the <strong class="a">presentation layer</strong> and allows us to apply design and style to our pages. CSS can be used for:</p>
+            <ul>
+                <li class="x">Color</li>
+                <li class="x">Typography</li>
+                <li class="y">Spacing</li>
+                <li class="y">Animations</li>
+                <li class="z">Media queries</li>
+                <li class="z">And more...</li>
+            </ul>
+            
+            <h2>JavaScript</h2>
+            <p><span class="b">JavaScript</span> is the <strong class="a">behavior layer</strong> allows us to add events to our pages. An event is something that is triggered when the user does something e.g.</p>
+            <ul>
+                <li class="x">Click</li>
+                <li class="y">Scroll</li>
+                <li class="z">Hover</li>
+            </ul>
+
+            <p>To learn more about building web pages, take a look at some of my favorite websites:</p>
+            <ul>
+                <li><a href="https://alistapart.com/">A List Apart</a></li>
+                <li><a href="https://www.smashingmagazine.com/">Smashing Magazine</a></li>
+                <li><a href="https://www.webdesignerdepot.com/">Web Designer Depot</a></li>
+            </ul>
+            
+            <p class="t">Building Web Page is Easy!</p>
+
+            <img src="https://ih1.redbubble.net/image.168622440.1528/flat,800x800,070,f.jpg" alt="awesome">
+        
+    </body>
+</html>
